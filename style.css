@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ubuntu-light {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .ubuntu-medium {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .ubuntu-bold {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .ubuntu-light-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .ubuntu-regular-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+.body{
+    background-color: aliceblue;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.content{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(219, 231, 241);
+}
+.profile-img{
+    height: 120px;
+    width: 120px;
+    float: left;
+    border: 1.5px solid white;
+    border-radius: 50%;
+    padding: 20px;
+}
+.profile-info{
+    font-weight: bold;
+    float: left;
+    padding: 45px;
+    color: rgb(42, 148, 241);
+}
+h1 h2 h3 h4 h5 h6{
+    color: rgb(42, 148, 241);
+}
+.profile-data{
+    float: right;
+    padding: 50px ;
+}
+.profile-data a{
+    text-decoration: none;
+    color: rgb(42, 148, 241);
+}
+.profile-data a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    color: 3px solid black;
+    border-bottom: none;
+}
+.common-hr{
+    color: 3px solid black;
+    border-bottom: none;
+    margin: 0 auto;
+}
+.left-div{
+    width: 30%;
+    padding: 30px;
+    float: left;
+}
+.right-div{
+    width: 50%;
+    padding: 20px;
+    float: right;
+}
+#select{
+  
+}
+.list-issue{
+  padding: 19px;
+}
+.edu-temp{
+  width: 50%;
+  float:left;
+}
+.bottom-content{
+  background-color:black;
+  text-align: center;
+  padding: 10px;
+}
+.bottom-content a{
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+}
+.bottom-content a:hover{
+  color: chocolate;
+}
+.bottom-content p{
+  color: white;
+  margin-top: 20px;
+}
